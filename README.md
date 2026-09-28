@@ -285,20 +285,6 @@ These approaches could improve the model's ability to detect rare failures.
 
 ---
 
-## Repository Structure
-
-```text
-predictive-maintenance-classification/
-│
-├── predictive_maintenance_classification.ipynb
-├── failure.csv
-└── README.md
-```
-
-> Note: Include `failure.csv` in the repository only if the dataset's license or source permits redistribution.
-
----
-
 ## Conclusion
 
 This project demonstrates a complete machine-learning workflow for **predictive maintenance classification**.
